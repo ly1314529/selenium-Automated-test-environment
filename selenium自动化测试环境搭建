@@ -102,7 +102,8 @@ IBM 翻译中文文档地址：http://www.ibm.com/developerworks/cn/views/web/li
 
 以上，就是我在Ubuntu下搭建selenium自动化测试框架的学习总结。刚刚学习这方面的知识，多有不足，希望各位多多指教。
 
-最近玩cucumber把Ubuntu都玩坏了，然后重新装，遇见各种坑...心塞
+vagrant destroy 虚拟机后 删除干净
+重装
 总结：
 1、笔记本一定要把硬件虚拟化 Intel Virtual Technology 打开
 2、vagrant up 自己在云上面加box的时候，资源差就选择放弃。迅雷下载后手动添加

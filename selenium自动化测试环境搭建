@@ -45,6 +45,9 @@
  $ xvfb-run --server-args="-screen 0, 1366x768x24" selenium-standalone start
   *注意：完成后另开一个shell  这是模拟的一个 server端  不然后续无法继续
 
+ 安装git
+ $sudo apt-get install git
+
 ③测试准备
  $ mkdir my-test
  $ cd my-test
